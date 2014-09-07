@@ -209,12 +209,11 @@
                                 </tableViewCellContentView>
                             </tableViewCell>
                         </prototypes>
-                        <connections>
-                            <outlet property="dataSource" destination="YGW-Vr-JDg" id="Jhx-oI-tdc"/>
-                            <outlet property="delegate" destination="YGW-Vr-JDg" id="H22-ai-2Cg"/>
-                        </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="New Event" id="bjj-ov-PVY"/>
+                    <connections>
+                        <outlet property="myTable" destination="KMk-RF-uaa" id="N4n-at-8EW"/>
+                    </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="tez-LC-fjz" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>

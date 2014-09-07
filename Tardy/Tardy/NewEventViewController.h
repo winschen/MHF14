@@ -10,6 +10,9 @@
 
 @interface NewEventViewController : UITableViewController
 
+@property (nonatomic, strong) NSMutableArray *facebookEvents;
 @property (nonatomic, strong) NSMutableArray *allEvents;
+//@property (nonatomic, strong) UITableView *thisTable;
+@property (strong, nonatomic) IBOutlet UITableView *myTable;
 
 @end

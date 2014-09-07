@@ -12,20 +12,24 @@
 	<dict>
 		<key>AA7018E664AEF8EC342872B3EA861CB47E0D1C04</key>
 		<string>github.com:rositawong/MHacksF14.git</string>
+		<key>BB16669B8595F1F6A184F2FAB4B7BD41F60BCEB7</key>
+		<string>https://github.com/winschen/MHF14.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Tardy/Tardy.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>AA7018E664AEF8EC342872B3EA861CB47E0D1C04</key>
+		<string>../../../../MHacksF14</string>
+		<key>BB16669B8595F1F6A184F2FAB4B7BD41F60BCEB7</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:rositawong/MHacksF14.git</string>
+	<string>https://github.com/winschen/MHF14.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>AA7018E664AEF8EC342872B3EA861CB47E0D1C04</string>
+	<string>BB16669B8595F1F6A184F2FAB4B7BD41F60BCEB7</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>AA7018E664AEF8EC342872B3EA861CB47E0D1C04</string>
 			<key>IDESourceControlWCCName</key>
 			<string>MHacksF14</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BB16669B8595F1F6A184F2FAB4B7BD41F60BCEB7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MHF14</string>
 		</dict>
 	</array>
 </dict>
